@@ -48,6 +48,15 @@ This project explores how market sentiment (Fear vs Greed) impacts trader behavi
 
 ---
 
+## 🧠 Advanced Insight (Key Differentiator)
+
+A deeper analysis reveals that traders tend to increase risk exposure during Greed phases but fail to achieve proportional returns, indicating inefficient risk-reward behavior driven by market emotions.
+
+In contrast, Fear phases show relatively better performance consistency, suggesting that disciplined and cautious strategies outperform emotionally driven decisions.
+
+This highlights a critical inefficiency in trader psychology that can be leveraged using contrarian or sentiment-aware trading strategies.
+
+
 ## 🚀 Conclusion
 
 This analysis highlights the strong relationship between sentiment and trading outcomes, enabling more informed and data-driven trading strategies.
