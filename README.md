@@ -1,6 +1,8 @@
 > ⚡ This project focuses on extracting actionable trading insights from sentiment-driven market behavior, not just performing data analysis.
 
 # 📊 Trader Behavior vs Market Sentiment Analysis
+> 🚨 Key Insight: Traders take higher risks during Greed phases but achieve lower risk-adjusted returns, indicating emotionally driven inefficiencies in trading behavior.
+
 
 ## 🧠 Objective
 
