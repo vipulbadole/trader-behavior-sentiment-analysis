@@ -48,6 +48,17 @@ This project explores how market sentiment (Fear vs Greed) impacts trader behavi
 
 ---
 
+## 🤖 Future Scope (AI Integration)
+
+This analysis can be extended using machine learning models to predict trader profitability based on sentiment, leverage, and trade behavior.
+
+Potential approaches include:
+
+* Classification models to predict profitable trades
+* Clustering traders based on behavioral patterns
+* Reinforcement learning for sentiment-aware trading strategies
+
+
 ## 🧠 Advanced Insight (Key Differentiator)
 
 A deeper analysis reveals that traders tend to increase risk exposure during Greed phases but fail to achieve proportional returns, indicating inefficient risk-reward behavior driven by market emotions.
