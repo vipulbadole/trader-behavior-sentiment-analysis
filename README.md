@@ -1,3 +1,5 @@
+> ⚡ This project focuses on extracting actionable trading insights from sentiment-driven market behavior, not just performing data analysis.
+
 # 📊 Trader Behavior vs Market Sentiment Analysis
 
 ## 🧠 Objective
